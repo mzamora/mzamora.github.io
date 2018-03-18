@@ -3,9 +3,9 @@ I'm a PhD student in mechanical engineering working in the solar energy forecast
 
 I'm a professional engineer from Chile, where I worked at the [FCFM Energy Center](http://www.centroenergia.cl) for three years. When I'm done with grad school, I'll go back home and work at the [University of Chile](http://www.dimec.uchile.cl). I'm also a human being and have a political and moral view that usually impact what I do and how I work.
 
-## Some of my interests
+## Some interests
 * Cloud modeling and solar resource for energy production
 * Fluid dynamics and turbulence
-* Renewable energy technologies: Solar thermal storage units, vertical axis wind/tidal turbines
+* Distributed renewable energy technologies
 * Energy access and technology impact on societies
 * Open source hardware
