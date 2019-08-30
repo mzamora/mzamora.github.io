@@ -1,8 +1,9 @@
 ## Useful resources
 
 
-## Textbooks and more
-* [Numerical Renaissance by Prof. Thomas Bewley](http://numerical-renaissance.com/NR.pdf) 
+## Textbooks (free/open access)
+* [Numerical Renaissance by Prof. Thomas Bewley](http://numerical-renaissance.com/NR.pdf)
+* [Introduction to Hydrology by Prof. Steve Margulis](https://margulis-group.github.io/teaching/)
 
 ## Datasets
 * [ARM LASSO - Shallow Cu LES runs @SGP](https://www.arm.gov/capabilities/modeling/lasso)
