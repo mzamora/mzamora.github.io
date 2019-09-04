@@ -1,9 +1,10 @@
 ## Useful resources
 
 
-## Textbooks (free/open access)
+## Textbooks / notes
 * [Numerical Renaissance by Prof. Thomas Bewley](http://numerical-renaissance.com/NR.pdf)
 * [Introduction to Hydrology by Prof. Steve Margulis](https://margulis-group.github.io/teaching/)
+* [Lecture Notes on The Planetary Boundary Layer by Chin-hoh Moeng](https://opensky.ucar.edu/islandora/object/technotes:537)
 
 ## Datasets
 * [ARM LASSO - Shallow Cu LES runs @SGP](https://www.arm.gov/capabilities/modeling/lasso)
