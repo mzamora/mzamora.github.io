@@ -2,9 +2,15 @@
 My current research mixes cloud physics and solar resource knowledge areas.
 
 ## Publications and conferences
+* Mónica N. Zamora Zapata, Jan Kleissl.
+ "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
+ 72nd Annual Meeting of the APS Division of Fluid Dynamics. Seattle, 2019 (Accepted)
+ [Link](https://meetings.aps.org/Meeting/DFD19/Session/M02.28)
+
 * Mónica N. Zamora Zapata, Elynn Wu, Jan Kleissl.
  "Irradiance enhancement events in the coastal Stratocumulus dissipation process"
  Solar World Congress. Santiago, 2019 (Accepted)
+ [Code](https://github.com/mzamora/Sc-Enhancement)
 
 * Elynn Wu, Mónica N. Zamora Zapata, Luca Delle Monache, Jan Kleissl. 
  "Observation-Based Analog Ensemble Solar Forecast in Coastal California" 
