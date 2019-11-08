@@ -17,6 +17,7 @@ My current research mixes cloud physics and solar resource knowledge areas.
  "Observation-Based Analog Ensemble Solar Forecast in Coastal California" 
  46th IEEE Photovoltaic Specialists Conference (PVSC). Chicago, June 2019.
  [Link](https://www.ieee-pvsc.org/PVSC46/program-technical.php?page=program&displayday=5&changing_days=yes&hide_details=)
+ [Code](https://github.com/elynnwu/Obs_AnEn)
 
 * Mónica N. Zamora Zapata, Jan Kleissl.
  "The effect of surface rolls and cells in the spatial organization of stratocumulus clouds"
