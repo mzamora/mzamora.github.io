@@ -9,7 +9,8 @@ My current research mixes cloud physics and solar resource knowledge areas.
 
 * Mónica N. Zamora Zapata, Elynn Wu, Jan Kleissl.
  "Irradiance enhancement events in the coastal Stratocumulus dissipation process"
- Solar World Congress. Santiago, 2019 (Accepted)
+ Solar World Congress. Santiago, 2019 
+ [Abstract] (https://cms.swc2019.org/file/display_attachment/9fcc78b238b0aeef76ce9503bcb7890?filename=M%C3%B3nica+Zamora+Zapata+-+Abstract.pdf) 
  [Code](https://github.com/mzamora/Sc-Enhancement)
 
 * Elynn Wu, Mónica N. Zamora Zapata, Luca Delle Monache, Jan Kleissl. 
