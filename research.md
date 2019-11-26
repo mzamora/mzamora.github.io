@@ -4,7 +4,7 @@ My current research mixes cloud physics and solar resource knowledge areas.
 ## Publications and conferences
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl.
  "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
- 72nd Annual Meeting of the APS Division of Fluid Dynamics. Seattle, 2019 (Accepted)
+ 72nd Annual Meeting of the APS Division of Fluid Dynamics. Seattle, 2019 
  [Link](https://meetings.aps.org/Meeting/DFD19/Session/M02.28)
 
 * Mónica N. Zamora Zapata, Elynn Wu, Jan Kleissl.
