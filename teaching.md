@@ -7,6 +7,7 @@
 * 2014 Fall. Instructor, ME3401 Kinematics and dynamics of mechanisms
 * 2014 Spring. Instructor, ME5101 Project Workshop
 * 2015 Fall. Co-Instructor with Claudia MacLean, EI2001 Sustainability projects for a circular economy
+
 ## At the [Department of Mechanical and Aerospace Engineering, UC San Diego](http://mae.ucsd.edu)
 * 2019 Winter, TA MAE123 Intro/Transport in Porous Media, Prof. Jan Kleissl
 * 2020 Winter, TA MAE119 Introduction to Renewable Energy: Solar and Wind, Prof. Jan Kleissl
