@@ -14,6 +14,7 @@
 * [MERRA-2 - Global reanalysis data](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
 * [NAM - Model forecast data @North America](https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam)
 * [NSRDB - Historical solar data @Americas](https://maps.nrel.gov/nsrdb-viewer)
+* [ASOS AWOS network - met. data @US](https://mesonet.agron.iastate.edu/request/download.phtml)
 
 ## Code
 * [microHH - atmospheric LES in C++, GPU capable](https://github.com/microhh)
