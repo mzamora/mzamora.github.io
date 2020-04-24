@@ -27,3 +27,4 @@
 * [I3RC - Atmospheric RTM](https://github.com/RobertPincus/i3rc-monte-carlo-model)
 * [Solstice - CSP simulator (haven't tried it)](https://www.meso-star.com/projects/solstice/solstice.html)
 * [Tonatiuh - MonteCarlo ray tracing simulator](https://github.com/iat-cener/tonatiuh)
+* [Pencil code - high order FD code (haven't tried it)](http://pencil-code.nordita.org/)
