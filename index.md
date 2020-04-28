@@ -8,4 +8,4 @@ I'm a professional engineer from Chile, where I worked at the [FCFM Energy Cente
 * Fluid dynamics and turbulence
 * Distributed renewable energy technologies
 * Energy access and technology impact on societies
-* Open source hardware
+* Open source hardware and [distributed manufacturing](https://medium.com/@monicazamoraz/the-time-for-distributed-manufacturing-c2bb52817c3c)
