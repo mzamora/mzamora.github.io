@@ -4,8 +4,8 @@ My current research mixes cloud physics and solar resource knowledge areas.
 ## Publications and conferences
 * Mónica Zamora Zapata, Joel R. Norris, Jan Kleissl.
 "Coastal stratocumulus dissipation dependence on initial conditions and boundary forcings in a Mixed-Layer Model"
-Journal of the Atmospheric Sciences, 2020. (Accepted)
-<!---[Link](https://doi.org/10.1175/JAS-D-19-0254.1)-->
+Journal of the Atmospheric Sciences, 2020.
+[Link](https://journals.ametsoc.org/jas/article/doi/10.1175/JAS-D-19-0254.1/348341/Coastal-stratocumulus-dissipation-dependence-on)
 
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl.
  "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
