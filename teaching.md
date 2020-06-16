@@ -13,3 +13,4 @@
 ## [MAE, UC San Diego](http://mae.ucsd.edu)
 * 2019 Winter, TA MAE123 Intro/Transport in Porous Media, Prof. Jan Kleissl
 * 2020 Winter, TA MAE119 Introduction to Renewable Energy: Solar and Wind, Prof. Jan Kleissl
+* 2020 Outstanding Teaching Assistant Award
