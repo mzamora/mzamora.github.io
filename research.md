@@ -36,3 +36,10 @@ Journal of the Atmospheric Sciences, 2020.
 15th Conference in Cloud Physics, American Meteorological Society. Vancouver, July 2018.
 [Link](https://ams.confex.com/ams/15CLOUD15ATRAD/webprogram/Paper347012.html)
 [Poster](https://doi.org/10.6084/m9.figshare.10305326.v1)
+
+## Other
+
+* Mónica N. Zamora Zapata. 
+"Análisis fluidodinámico en una turbina helicoidal GHT para generación de energía mareo-motriz"
+Undergraduate thesis, Universidad de Chile, 2012. Advisors: Alejandro Ortiz and Williams Calderón.
+[Link](http://repositorio.uchile.cl/handle/2250/111293)
