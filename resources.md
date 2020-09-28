@@ -6,6 +6,7 @@
 * [Introduction to Hydrology by Prof. Steve Margulis](https://margulis-group.github.io/teaching/)
 * [Lecture Notes on The Planetary Boundary Layer by Chin-hoh Moeng](https://opensky.ucar.edu/islandora/object/technotes:537)
 * [Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science by Prof. Afonso Bandeira](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf)
+* [STEM Teaching course by the CIRTL Network](http://stemteachingcourse.org/)
 
 ## Datasets
 * [ARM LASSO - Shallow Cu LES runs @SGP](https://www.arm.gov/capabilities/modeling/lasso)
