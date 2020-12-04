@@ -9,7 +9,7 @@ Submitted to JGR Atmospheres, 2020.
 
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Dynamics of the coastal Stratocumulus cloud dissipation"
-AGU Fall Meeting, December 2020. (Accepted)
+AGU Fall Meeting, December 2020.
 [Link](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/687317)
 [ePoster](https://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=00-64-CA-02-0D-63-4C-7F-29-75-C3-DD-7C-E1-72-EB)
 
