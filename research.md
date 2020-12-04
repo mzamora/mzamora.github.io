@@ -5,11 +5,13 @@ My current research mixes cloud physics and solar resource knowledge areas.
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Effects of surface and top wind shear on the spatial organization of marine Stratocumulus-topped boundary layers"
 Submitted to JGR Atmospheres, 2020.
+[Preprint](https://doi.org/10.1002/essoar.10504929.1)
 
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Dynamics of the coastal Stratocumulus cloud dissipation"
 AGU Fall Meeting, December 2020. (Accepted)
 [Link](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/687317)
+[ePoster](https://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=00-64-CA-02-0D-63-4C-7F-29-75-C3-DD-7C-E1-72-EB)
 
 * Mónica Zamora Zapata, Joel R. Norris, Jan Kleissl.
 "Coastal stratocumulus dissipation dependence on initial conditions and boundary forcings in a Mixed-Layer Model"
@@ -48,6 +50,12 @@ Journal of the Atmospheric Sciences, 2020.
 
 ## Theses
 * Mónica N. Zamora Zapata. 
+"Dissipation time and spatial organization of coastal Stratocumulus clouds"
+PhD Dissertation, University of California San Diego, 2020. Advisor: Jan Kleissl.
+[Link](http://solar.ucsd.edu/mzamoraz/Dissertation.pdf)
+
+* Mónica N. Zamora Zapata. 
 "Análisis fluidodinámico en una turbina helicoidal GHT para generación de energía mareo-motriz"
 Undergraduate thesis, Universidad de Chile, 2012. Advisors: Alejandro Ortiz and Williams Calderón.
 [Link](http://repositorio.uchile.cl/handle/2250/111293)
+
