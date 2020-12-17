@@ -1,7 +1,7 @@
 ## Hello world
-I'm a PhD student in mechanical engineering working in the solar energy forecasting area at [UCSD](http://solar.ucsd.edu). Currently I'm working on Stratocumulus clouds modeling, using realistic conditions for cities like San Diego, CA. [More on research](research.md), [teaching](teaching.md) and [some useful resources](resources.md).
+I'm a recent PhD in Engineering Sciences, working on Stratocumulus clouds modeling for coastal cities like San Diego, CA. [More on research](research.md), [teaching](teaching.md) and [some useful resources](resources.md).
 
-I'm a professional engineer from Chile, where I worked at the [FCFM Energy Center](http://www.centroenergia.cl) for three years. When I'm done with grad school, I'll go back home and work at the [University of Chile](http://www.dimec.uchile.cl). I'm also a human being and have a political and moral view that usually impact what I do and how I work.
+I did my PhD with the Solar Resource Assessment and Forecasting Lab at [UC San Diego](http://solar.ucsd.edu). I'm a professional engineer from Chile, where I worked at the [FCFM Energy Center](http://www.centroenergia.cl) for three years. Currently transitioning to start working at the [University of Chile](http://www.dimec.uchile.cl). I'm also a human being and have a political and moral view that usually impact what I do and how I work.
 
 ## Some interests
 * Cloud modeling and solar resource for energy production
