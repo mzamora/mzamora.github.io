@@ -52,7 +52,7 @@ Journal of the Atmospheric Sciences, 2020.
 * Mónica N. Zamora Zapata. 
 "Dissipation time and spatial organization of coastal Stratocumulus clouds"
 PhD Dissertation, University of California San Diego, 2020. Advisor: Jan Kleissl.
-[Link](http://solar.ucsd.edu/mzamoraz/Dissertation.pdf)
+[Link](https://escholarship.org/uc/item/1hh0f7s8)
 
 * Mónica N. Zamora Zapata. 
 "Análisis fluidodinámico en una turbina helicoidal GHT para generación de energía mareo-motriz"
