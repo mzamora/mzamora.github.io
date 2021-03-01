@@ -30,3 +30,6 @@
 * [Tonatiuh - MonteCarlo ray tracing simulator](https://github.com/iat-cener/tonatiuh)
 * [Pencil code - high order FD code (haven't tried it)](http://pencil-code.nordita.org/)
 * [py-Art - read ARM radar data](http://arm-doe.github.io/pyart/)
+
+## More
+* [ACM SIGEnergy resources](https://energy.acm.org/resources/)
