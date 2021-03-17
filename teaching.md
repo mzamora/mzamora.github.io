@@ -1,5 +1,8 @@
 ## Teaching
 
+## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
+* 2021 Fall, ME5400, Thermofluids engineering
+
 ## [MAE, UC San Diego](http://mae.ucsd.edu)
 * 2020 Winter, TA MAE119 Introduction to Renewable Energy: Solar and Wind, Prof. Jan Kleissl
 * 2020 Outstanding Teaching Assistant Award
