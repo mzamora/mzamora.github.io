@@ -1,7 +1,9 @@
 ## Teaching
 
 ## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
-* 2021 Fall, ME5400, Thermofluids engineering
+* 2021 Fall&Spring, ME5400, Thermofluids engineering
+* 2021 Spring, ME6010, Introduction to turbulence
+* 2021 Spring, ME3130, Statics
 
 ## [MAE, UC San Diego](http://mae.ucsd.edu)
 * 2020 Winter, TA MAE119 Introduction to Renewable Energy: Solar and Wind, Prof. Jan Kleissl
