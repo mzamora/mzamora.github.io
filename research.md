@@ -1,5 +1,11 @@
 ## Research
-My current research mixes cloud physics and solar resource knowledge areas.
+My current research mixes cloud physics and solar resource knowledge areas. I mostly work running LES and then doing data analysis of both model outputs and observational datasets. Open to collaborations on:
+* Spatial organization, physics, and turbulence of cloud boundary layers
+* Dynamics of the coastal stratocumulus breakup and coastal modeling challenges
+* Linking the spatial features of clouds to solar variability
+* Characterization and effects of solar variability on electrical and thermal conversion devices
+* Characterization and optimization of solar thermal components
+* Modeling tools for varied energy applications
 
 ## Publications and conferences
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl. 
