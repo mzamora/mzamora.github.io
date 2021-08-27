@@ -5,5 +5,4 @@ Recursos para la clase
 
 Primavera 2021
 * [Notas de clase](me6010/notas.pdf)
-* [Tarea 1](me6010/tarea01.pdf)
-* [Tarea 2](me6010/tarea02.pdf)
+* Tareas: [01](me6010/tarea01.pdf), [02](me6010/tarea02.pdf)
