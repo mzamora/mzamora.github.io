@@ -2,7 +2,7 @@
 
 ## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
 * 2021 Fall&Spring, ME5400, Thermofluids engineering
-* 2021 Spring, ME6010, Introduction to turbulence
+* 2021 Spring, [ME6010](introturbulencia.md), Introduction to turbulence
 * 2021 Spring, ME3130, Statics
 
 ## [MAE, UC San Diego](http://mae.ucsd.edu)
