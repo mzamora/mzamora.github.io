@@ -32,6 +32,7 @@
 * [Pencil code - high order FD code (haven't tried it)](http://pencil-code.nordita.org/)
 * [py-Art - read ARM radar data](http://arm-doe.github.io/pyart/)
 * [SCAMPy - atmospheric SCM in python](https://github.com/cmkaul/SCAMPy)
+* [Dynamics and control with Jupyter notebooks](https://dynamics-and-control.readthedocs.io/en/latest/index.html)
 
 ## More
 * [ACM SIGEnergy resources](https://energy.acm.org/resources/)
