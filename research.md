@@ -10,7 +10,8 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 ## Publications and conferences
 * Mónica N. Zamora Zapata, Thijs Heus
 "Modeling the Response of Coastal Stratocumulus Clouds to Sudden and Gradual Variations of Surface Heat Fluxes"
-Submitted to AGU Fall meeting 2021.
+AGU Fall meeting 2021.
+[Link](https://doi.org/10.1002/essoar.10509467.1)
 
 * Mónica N. Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Effects of surface and top wind shear on the spatial organization of marine Stratocumulus-topped boundary layers"
@@ -59,7 +60,6 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 [Poster](https://doi.org/10.6084/m9.figshare.10305326.v1)
 
 ## Other
-
 * Paz Araya, Mónica Zamora. "Una transición de los saberes y competencias, el desafío para construir el futuro energético". Revista Planeo nº47, abril 2021. [Link](http://revistaplaneo.cl/2021/04/08/una-transicion-de-los-saberes-y-competencias-el-desafio-para-construir-el-futuro-energetico/)
 
 * Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
@@ -75,4 +75,3 @@ PhD Dissertation, University of California San Diego, 2020. Advisor: Jan Kleissl
 "Análisis fluidodinámico en una turbina helicoidal GHT para generación de energía mareo-motriz"
 Undergraduate thesis, Universidad de Chile, 2012. Advisors: Alejandro Ortiz and Williams Calderón.
 [Link](http://repositorio.uchile.cl/handle/2250/111293)
-
