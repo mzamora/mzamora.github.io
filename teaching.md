@@ -1,7 +1,7 @@
 ## Teaching
 
 ## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
-* 2021 Fall&Spring, ME5400, Thermofluids engineering
+* 2021,2022 Fall&Spring, [ME5400](termofluidos.md), Thermofluids engineering
 * 2021 Spring, [ME6010](introturbulencia.md), Introduction to turbulence
 * 2021 Spring, ME3130, Statics
 
