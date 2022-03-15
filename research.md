@@ -7,6 +7,8 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 * Characterization and optimization of solar thermal components
 * Modeling tools for varied energy applications
 
+If you're interested in coming here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
+
 ## Publications and conferences
 * Mónica Zamora Zapata, Jan Kleissl
 "Sub-hourly solar variability dependence on time resolution and cloud vertical position"
