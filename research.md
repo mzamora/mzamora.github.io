@@ -34,7 +34,7 @@ AGU Fall Meeting, December 2020.
 * Mónica Zamora Zapata, Joel R. Norris, Jan Kleissl.
 "Coastal stratocumulus dissipation dependence on initial conditions and boundary forcings in a Mixed-Layer Model"
 Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
-[Link](https://journals.ametsoc.org/jas/article/doi/10.1175/JAS-D-19-0254.1/348341/Coastal-stratocumulus-dissipation-dependence-on)
+[Link](https://doi.org/10.1175/JAS-D-19-0254.1)
 
 * Mónica Zamora Zapata, Thijs Heus, Jan Kleissl.
  "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
