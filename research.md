@@ -67,6 +67,9 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 [Poster](https://doi.org/10.6084/m9.figshare.10305326.v1)
 
 ## Other
+* Mónica Zamora Z., Thijs Heus. "The response of a Stratocumulus-topped boundary layer to changes in surface fluxes"
+ASR-DOE virtual workshop "The future of Atmospheric LES", April 2022.
+
 * Paz Araya, Mónica Zamora. "Una transición de los saberes y competencias, el desafío para construir el futuro energético". Revista Planeo nº47, abril 2021. [Link](http://revistaplaneo.cl/2021/04/08/una-transicion-de-los-saberes-y-competencias-el-desafio-para-construir-el-futuro-energetico/)
 
 * Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
