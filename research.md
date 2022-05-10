@@ -15,6 +15,10 @@ If you're interested in coming here, there are [doctoral](https://www.anid.cl/ca
 Journal of Renewable and Sustainable Energy, 2022 (under review).
 [Preprint](preprints/subhourly_preprint.pdf)
 
+* Avik Ghosh, Mónica Zamora Zapata, Sushil Silwal, Adil Khurram, Jan Kleissl
+"Effects of number of electric vehicles charging/discharging on total electricity costs in commercial buildings with time-of-use energy and demand charges"
+Journal of Renewable and Sustainable Energy, 2022. [Link](https://doi.org/10.1063/5.0086924)
+
 * Mónica Zamora Zapata, Thijs Heus
 "Modeling the Response of Coastal Stratocumulus Clouds to Sudden and Gradual Variations of Surface Heat Fluxes"
 AGU Fall meeting 2021.
