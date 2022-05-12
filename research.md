@@ -9,7 +9,7 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 
 If you're interested in coming here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
-## Publications and conferences
+## Publications and conference papers
 * Mónica Zamora Zapata, Jan Kleissl
 "Sub-hourly solar variability dependence on time resolution and cloud vertical position"
 Journal of Renewable and Sustainable Energy, 2022 (under review).
@@ -19,32 +19,15 @@ Journal of Renewable and Sustainable Energy, 2022 (under review).
 "Effects of number of electric vehicles charging/discharging on total electricity costs in commercial buildings with time-of-use energy and demand charges"
 Journal of Renewable and Sustainable Energy, 2022. [Link](https://doi.org/10.1063/5.0086924)
 
-* Mónica Zamora Zapata, Thijs Heus
-"Modeling the Response of Coastal Stratocumulus Clouds to Sudden and Gradual Variations of Surface Heat Fluxes"
-AGU Fall meeting 2021.
-[Link](https://doi.org/10.1002/essoar.10509467.1)
-
 * Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Effects of surface and top wind shear on the spatial organization of marine Stratocumulus-topped boundary layers"
 JGR Atmospheres 126(11), June 2021.
 [Link](https://doi.org/10.1029/2020JD034162)
 
-* Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
-"Dynamics of the coastal Stratocumulus cloud dissipation"
-AGU Fall Meeting, December 2020.
-[Link](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/687317)
-[ePoster](https://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=00-64-CA-02-0D-63-4C-7F-29-75-C3-DD-7C-E1-72-EB)
-
 * Mónica Zamora Zapata, Joel R. Norris, Jan Kleissl.
 "Coastal stratocumulus dissipation dependence on initial conditions and boundary forcings in a Mixed-Layer Model"
 Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 [Link](https://doi.org/10.1175/JAS-D-19-0254.1)
-
-* Mónica Zamora Zapata, Thijs Heus, Jan Kleissl.
- "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
- 72nd Annual Meeting of the APS Division of Fluid Dynamics. Seattle, 2019 
- [Link](https://meetings.aps.org/Meeting/DFD19/Session/M02.28)
- [Poster](https://doi.org/10.6084/m9.figshare.8044628.v1)
 
 * Mónica Zamora Zapata, Elynn Wu, Jan Kleissl.
  "Irradiance enhancement events in the coastal Stratocumulus dissipation process"
@@ -59,6 +42,30 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Link](https://ieeexplore.ieee.org/abstract/document/8980546/)
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
+## Other conferences and workshops
+* Mónica Zamora Z., Thijs Heus. "The response of a Stratocumulus-topped boundary layer to changes in surface fluxes"
+ASR-DOE virtual workshop "The future of Atmospheric LES", April 2022.
+
+* Mónica Zamora Zapata, Thijs Heus
+"Modeling the Response of Coastal Stratocumulus Clouds to Sudden and Gradual Variations of Surface Heat Fluxes"
+AGU Fall meeting 2021.
+[Link](https://doi.org/10.1002/essoar.10509467.1)
+
+* Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
+Ameriflux. Land-Atmosphere Interactions 2021 virtual workshop. [Link](https://ameriflux.lbl.gov/community/ameriflux-meetings-workshops/land-atmosphere-interaction-workshop-overview/)
+
+* Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
+"Dynamics of the coastal Stratocumulus cloud dissipation"
+AGU Fall Meeting, December 2020.
+[Link](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/687317)
+[ePoster](https://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=00-64-CA-02-0D-63-4C-7F-29-75-C3-DD-7C-E1-72-EB)
+
+* Mónica Zamora Zapata, Thijs Heus, Jan Kleissl.
+ "Shear and buoyancy effects in the spatial organization of Stratocumulus clouds"
+ 72nd Annual Meeting of the APS Division of Fluid Dynamics. Seattle, 2019 
+ [Link](https://meetings.aps.org/Meeting/DFD19/Session/M02.28)
+ [Poster](https://doi.org/10.6084/m9.figshare.8044628.v1)
+
 * Mónica Zamora Zapata, Jan Kleissl.
  "The effect of surface rolls and cells in the spatial organization of stratocumulus clouds"
  13th Southern California Flow Physics Symposium (SoCal Fluids XIII). Santa Barbara, May 2019.
@@ -71,13 +78,7 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 [Poster](https://doi.org/10.6084/m9.figshare.10305326.v1)
 
 ## Other
-* Mónica Zamora Z., Thijs Heus. "The response of a Stratocumulus-topped boundary layer to changes in surface fluxes"
-ASR-DOE virtual workshop "The future of Atmospheric LES", April 2022.
-
 * Paz Araya, Mónica Zamora. "Una transición de los saberes y competencias, el desafío para construir el futuro energético". Revista Planeo nº47, abril 2021. [Link](http://revistaplaneo.cl/2021/04/08/una-transicion-de-los-saberes-y-competencias-el-desafio-para-construir-el-futuro-energetico/)
-
-* Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
-Ameriflux. Land-Atmosphere Interactions 2021 virtual workshop. [Link](https://ameriflux.lbl.gov/community/ameriflux-meetings-workshops/land-atmosphere-interaction-workshop-overview/)
 
 ## Theses
 * Mónica N. Zamora Zapata. 
