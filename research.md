@@ -11,13 +11,12 @@ If you're interested in coming here, there are [doctoral](https://www.anid.cl/ca
 
 ## Publications and conference papers
 * Mónica Zamora Zapata, Jan Kleissl
-"Sub-hourly solar variability dependence on time resolution and cloud vertical position"
-Journal of Renewable and Sustainable Energy, 2022 (under review).
-[Preprint](preprints/subhourly_preprint.pdf)
+"Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
+Journal of Renewable and Sustainable Energy, 2022. [Preprint](preprints/subhourly_preprint.pdf)
 
 * Avik Ghosh, Mónica Zamora Zapata, Sushil Silwal, Adil Khurram, Jan Kleissl
 "Effects of number of electric vehicles charging/discharging on total electricity costs in commercial buildings with time-of-use energy and demand charges"
-Journal of Renewable and Sustainable Energy, 2022. [Link](https://doi.org/10.1063/5.0086924)
+Journal of Renewable and Sustainable Energy 14(3), 2022. [Link](https://doi.org/10.1063/5.0086924)
 
 * Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Effects of surface and top wind shear on the spatial organization of marine Stratocumulus-topped boundary layers"
