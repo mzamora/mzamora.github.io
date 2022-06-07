@@ -12,7 +12,7 @@ If you're interested in coming here, there are [doctoral](https://www.anid.cl/ca
 ## Publications and conference papers
 * Mónica Zamora Zapata, Jan Kleissl
 "Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
-Journal of Renewable and Sustainable Energy, 2022. [Link](https://doi.org/10.1063/5.0090846)
+Journal of Renewable and Sustainable Energy 14(3), 2022. [Link](https://doi.org/10.1063/5.0090846)
 
 * Avik Ghosh, Mónica Zamora Zapata, Sushil Silwal, Adil Khurram, Jan Kleissl
 "Effects of number of electric vehicles charging/discharging on total electricity costs in commercial buildings with time-of-use energy and demand charges"
