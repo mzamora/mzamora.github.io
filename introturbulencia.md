@@ -1,7 +1,7 @@
 ## Introducción a la turbulencia
 
 Primavera 2021
-* Notas de clase: [Parte 1](me6010/NotasME6010_2021_Part1.pdf) [Parte 2](me6010/NotasME6010_2021_Part1.pdf)
+* Notas de clase: [Parte 1](me6010/NotasME6010_2021_Part1.pdf), [Parte 2](me6010/NotasME6010_2021_Part1.pdf)
 * Tareas: [01](me6010/tarea01.pdf), [02](me6010/tarea02.pdf), [03](me6010/tarea03.pdf), [04+05](me6010/tarea04.pdf), [06](me6010/tarea06.pdf), [07](me6010/tarea07pdf).
 
 Recursos para la clase
