@@ -42,12 +42,22 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
+* Mónica Zamora Z.
+"Observing Seabreeze Features during Coastal Stratocumulus Breakup and Dissipation Events"
+24th Symposium on Boundary Layers and Turbulence, AMS 2023 103rd Annual meeting, Denver, CO.
+[Abstract](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/414434)
+
+* Mónica Zamora Z., Thijs Heus. 
+"The Role of Surface Fluxes on the Dissipation Transition of A Stratocumulus-Topped Boundary Layer"
+AGU Fall meeting 2022, Chicago, IL.
+[Link](http://agu2022fallmeeting-agu.ipostersessions.com/Default.aspx?s=90-FA-53-CD-DF-5B-D5-13-C2-AF-64-53-01-9C-FD-B8)
+
 * Mónica Zamora Z., Thijs Heus. "The response of a Stratocumulus-topped boundary layer to changes in surface fluxes"
-ASR-DOE virtual workshop "The future of Atmospheric LES", April 2022.
+ASR-DOE virtual workshop "The future of Atmospheric LES", April 2022 (virtual).
 
 * Mónica Zamora Zapata, Thijs Heus
 "Modeling the Response of Coastal Stratocumulus Clouds to Sudden and Gradual Variations of Surface Heat Fluxes"
-AGU Fall meeting 2021.
+AGU Fall meeting 2021 (virtual).
 [Link](https://doi.org/10.1002/essoar.10509467.1)
 
 * Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
