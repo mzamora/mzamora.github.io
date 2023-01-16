@@ -1,9 +1,10 @@
 ## Teaching
 
 ## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
-* 2021,2022 Fall&Spring, [ME5400](termofluidos.md), Thermofluids engineering
-* 2021 Spring, [ME6010](introturbulencia.md), Introduction to turbulence
-* 2021 Spring, ME3130, Statics
+* 2021- Fall&Spring, [ME5400/ME5140](termofluidos.md), Thermofluids engineering
+* 2021 Spring, 2023 Fall [ME6010](introturbulencia.md), Introduction to turbulence
+* 2021- Spring, ME3130, Statics
+* 2023 Fall, CD1100, Innovation Challenges in Engineering and Science (w/ Rubén Fernández), [iGea program](https://helice.ing.uchile.cl/igea/) 
 
 ## [MAE, UC San Diego](http://mae.ucsd.edu)
 * 2020 Winter, TA MAE119 Introduction to Renewable Energy: Solar and Wind, Prof. Jan Kleissl
