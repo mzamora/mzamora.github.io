@@ -8,6 +8,7 @@
 * [Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science by Prof. Afonso Bandeira](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf)
 * [Data-driven science and engineering by S. Brunton and J. Kutz](http://databookuw.com/databook.pdf)
 * [STEM Teaching course by the CIRTL Network](http://stemteachingcourse.org/)
+* [The Feynman lectures on physics](https://www.feynmanlectures.caltech.edu/)
 
 ## Datasets
 * [ARM LASSO - Shallow Cu LES runs @SGP](https://www.arm.gov/capabilities/modeling/lasso)
