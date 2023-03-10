@@ -10,18 +10,27 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in coming here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
+* Mónica Zamora Zapata, Kari Lappalainen, Adam Kanckiewicz, Jan Kleissl
+"Modeling high current events for solar inverters with subhourly data" (in preparation)
+
 * Mónica Zamora Zapata, Jan Kleissl
 "Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
-Journal of Renewable and Sustainable Energy 14(3), 2022. [Link](https://doi.org/10.1063/5.0090846)
+Journal of Renewable and Sustainable Energy 14(3), 2022. 
+[Link](https://doi.org/10.1063/5.0090846) 
+[Code](https://github.com/mzamora/SolarVarCACTI) 
+[Preprint](preprints/subhourly_cacti.pdf)
 
 * Avik Ghosh, Mónica Zamora Zapata, Sushil Silwal, Adil Khurram, Jan Kleissl
 "Effects of number of electric vehicles charging/discharging on total electricity costs in commercial buildings with time-of-use energy and demand charges"
-Journal of Renewable and Sustainable Energy 14(3), 2022. [Link](https://doi.org/10.1063/5.0086924)
+Journal of Renewable and Sustainable Energy 14(3), 2022. 
+[Link](https://doi.org/10.1063/5.0086924) 
+[Preprint](https://www.researchgate.net/publication/360493417_Effects_of_number_of_electric_vehicles_chargingdischarging_on_total_electricity_costs_in_commercial_buildings_with_time-of-use_energy_and_demand_charges)
 
 * Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Effects of surface and top wind shear on the spatial organization of marine Stratocumulus-topped boundary layers"
 JGR Atmospheres 126(11), June 2021.
 [Link](https://doi.org/10.1029/2020JD034162)
+[Code](https://github.com/mzamora/Sc-Spatial)
 
 * Mónica Zamora Zapata, Joel R. Norris, Jan Kleissl.
 "Coastal stratocumulus dissipation dependence on initial conditions and boundary forcings in a Mixed-Layer Model"
@@ -61,7 +70,8 @@ AGU Fall meeting 2021 (virtual).
 [Link](https://doi.org/10.1002/essoar.10509467.1)
 
 * Mónica Zamora. "Approaching coastal Stratocumulus through variations of surface heat fluxes."
-Ameriflux. Land-Atmosphere Interactions 2021 virtual workshop. [Link](https://ameriflux.lbl.gov/community/ameriflux-meetings-workshops/land-atmosphere-interaction-workshop-overview/)
+Ameriflux. Land-Atmosphere Interactions 2021 virtual workshop. 
+[Link](https://ameriflux.lbl.gov/community/ameriflux-meetings-workshops/land-atmosphere-interaction-workshop-overview/)
 
 * Mónica Zamora Zapata, Thijs Heus, Jan Kleissl. 
 "Dynamics of the coastal Stratocumulus cloud dissipation"
