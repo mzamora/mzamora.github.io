@@ -12,7 +12,7 @@ If you're interested in coming here, there are [doctoral](https://www.anid.cl/ca
 ## Publications and conference papers
 * Mónica Zamora Zapata, Kari Lappalainen, Adam Kanckiewicz, Jan Kleissl
 "Modeling high current events for solar inverters with subhourly data" Submitted to the Journal of Renewable and Sustainable Energy.
-[Preprint](preprints/invenh_current.pdf)
+[Preprint](preprints/enhinv_current.pdf)
 [Code](https://github.com/mzamora/InverterEnhancement) 
 
 * Mónica Zamora Zapata, Jan Kleissl
