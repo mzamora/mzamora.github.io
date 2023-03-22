@@ -10,9 +10,9 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in coming here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
-* Mónica Zamora Zapata, Kari Lappalainen, Adam Kanckiewicz, Jan Kleissl
+* Mónica Zamora Zapata, Kari Lappalainen, Adam Kankiewicz, Jan Kleissl
 "Modeling high current events for solar inverters with subhourly data" Submitted to the Journal of Renewable and Sustainable Energy.
-[Preprint](preprints/enhinv_current.pdf)
+[Preprint](preprints/envinh_current.pdf)
 [Code](https://github.com/mzamora/InverterEnhancement) 
 
 * Mónica Zamora Zapata, Jan Kleissl
