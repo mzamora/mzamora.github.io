@@ -12,10 +12,14 @@ Proyectos propuestos:
   * Desalación de agua de mar para localidades costeras
   * Acondicionamiento de invernaderos con energía renovable
 * Privamera 2022: 
-  * Acondicionamiento de escuelas con energía geotérmica (vinculación con el medio, con Nicolás Hurtado, CEGA) [Mira la nota de prensa](https://dimec.uchile.cl/app/estudiantes-participan-de-proyectos-vinculados-con-comunidades-escolares-del-sur-de-nuestro-pais/)
+  * Acondicionamiento de escuelas con energía geotérmica (vinculación con el medio, con Nicolás Hurtado, CEGA).
+  [Mira la nota de prensa](https://dimec.uchile.cl/app/estudiantes-participan-de-proyectos-vinculados-con-comunidades-escolares-del-sur-de-nuestro-pais/).
+  [Financiado por el concurso de innovación docente, A2IC, primavera 2022](https://a2ic.ing.uchile.cl/proyectos-de-innovaci%C3%B3n-docente/primavera-2022).
   * Acondicionamiento de espacios en el taller Molina
   * Tratamiento de aguas residuales
 * Otoño 2023:
-  * Deshumidificación en depósitos del Museo de Arte Contemporáneo (vinculación con el medio con el MAC, Facultad de Artes)
+  * Deshumidificación en depósitos del Museo de Arte Contemporáneo (vinculación con el medio con el MAC, Facultad de Artes). Financiado por el concurso de innovación docente, A2IC, otoño 2023.
   * Reconversión de una central a carbón
   * Recambio de una caldera de hospital
+
+Para propuestas de vinculación, escríbeme a mzamora arroba uchile punto cl.
