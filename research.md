@@ -7,13 +7,16 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 * Characterization and optimization of solar thermal components
 * Modeling tools for varied energy applications
 
-If you're interested in coming here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
+If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
 * Mónica Zamora Zapata, Kari Lappalainen, Adam Kankiewicz, Jan Kleissl
-"Modeling high current events for solar inverters with subhourly data" Submitted to the Journal of Renewable and Sustainable Energy.
+"Comparing solar inverter design rules to subhourly solar resource simulations" Journal of Renewable and Sustainable Energy (under review).
 [Preprint](preprints/envinh_current.pdf)
-[Code](https://github.com/mzamora/InverterEnhancement) 
+[Code](https://github.com/mzamora/InverterEnhancement)
+
+* Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
+"A multi-model platform for sustainable electromobility analysis and planning" Submitted to SDEWES 2024
 
 * Mónica Zamora Zapata, Jan Kleissl
 "Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
