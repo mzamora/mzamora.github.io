@@ -15,7 +15,10 @@ I worked on my PhD at the Solar Resource Assessment and Forecasting Lab at [UC S
 
  ## Formal contact info
 Departamento de Ingeniería Mecánica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
+
 Beauchef 851, Santiago, RM, 8370458, Chile
+
 Of. 411, Torre Poniente
+
 mzamora at uchile dot cl
 
