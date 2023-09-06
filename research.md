@@ -11,12 +11,12 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 
 ## Publications and conference papers
 * Mónica Zamora Zapata, Kari Lappalainen, Adam Kankiewicz, Jan Kleissl
-"Comparing solar inverter design rules to subhourly solar resource simulations" Journal of Renewable and Sustainable Energy (under review).
+"Comparing solar inverter design rules to subhourly solar resource simulations" Journal of Renewable and Sustainable Energy (Accepted, Featured Article).
 [Preprint](preprints/envinh_current.pdf)
 [Code](https://github.com/mzamora/InverterEnhancement)
 
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
-"A multi-model platform for sustainable electromobility analysis and planning" Submitted to SDEWES 2024
+"A multi-model platform for sustainable electromobility analysis and planning" SDEWES 2024 (submitted, under review)
 
 * Mónica Zamora Zapata, Jan Kleissl
 "Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
@@ -56,6 +56,11 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
+* Marcelo Matus-Acuña, Gonzalo Bustos-Turu, Tomás Cox, Mónica Zamora Zapata, Williams Calderón-Muñoz, Ignacio Ceballos, Bárbara Silva, Lorenzo Reyes-Chamorro, Chariel Chávez Mancilla, María Del Pilar Buitrago-Villada, Fernando Peña Cortés, Eduardo Fernández Soto, Alejandro Tirachini, Leonardo Camus, Carlos García Bujanda, Gianluca Falcone Araya, Luis Di Stefano. 
+"Integrating MATSim into a Comprehensive Multi-Model Platform for Analysis and Planning of Sustainable Electromobility Scenarios"
+MatSim User Meeting 2023, Zurich, Switzerland.
+[Program](https://matsim.org/conferences/MUM_schedule_2023.pdf)
+
 * Mónica Zamora Z.
 "Observing Seabreeze Features during Coastal Stratocumulus Breakup and Dissipation Events"
 24th Symposium on Boundary Layers and Turbulence, AMS 2023 103rd Annual meeting, Denver, CO.
