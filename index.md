@@ -13,7 +13,7 @@ I worked on my PhD at the Solar Resource Assessment and Forecasting Lab at [UC S
 * Open source hardware and [distributed manufacturing](https://medium.com/@monicazamoraz/the-time-for-distributed-manufacturing-c2bb52817c3c)
 * Technology for the rural world
 
- ## Formal contact info
+## Formal contact info
 Departamento de Ingeniería Mecánica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
 
 Beauchef 851, Santiago, RM, 8370458, Chile
