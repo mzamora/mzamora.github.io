@@ -11,9 +11,11 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 
 ## Publications and conference papers
 * Mónica Zamora Zapata, Kari Lappalainen, Adam Kankiewicz, Jan Kleissl
-"Comparing solar inverter design rules to subhourly solar resource simulations" Journal of Renewable and Sustainable Energy (Accepted, Featured Article).
-[Preprint](preprints/envinh_current.pdf)
+"Comparing solar inverter design rules to subhourly solar resource simulations"
+Journal of Renewable and Sustainable Energy 15(5), 2023 (Featured Article).
+[Link](https://doi.org/10.1063/5.0151042)
 [Code](https://github.com/mzamora/InverterEnhancement)
+[Preprint](preprints/envinh_current.pdf)
 
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning" SDEWES 2024 (submitted, under review)
