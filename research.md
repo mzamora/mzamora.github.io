@@ -58,6 +58,15 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
+* Gabriela Pallauta, Ricardo Muñoz, Mónica Zamora Z.
+"Features of sea breeze during coastal Stratocumulus breakup events in Antofagasta and San Diego"
+AGU Fall Meeting 2023, San Francisco, CA.
+[Link](https://agu23.ipostersessions.com/Default.aspx?s=9A-4F-95-A9-73-0E-95-F3-07-E4-47-98-F9-B0-66-CB)
+
+* Francisco Rojas, Mónica Zamora Z.
+"Response of a coastal Stratocumulus-topped boundary layer to idealized variations of sea breeze"
+AGU Fall Meeting 2023, San Francisco, CA.
+
 * Marcelo Matus-Acuña, Gonzalo Bustos-Turu, Tomás Cox, Mónica Zamora Zapata, Williams Calderón-Muñoz, Ignacio Ceballos, Bárbara Silva, Lorenzo Reyes-Chamorro, Chariel Chávez Mancilla, María Del Pilar Buitrago-Villada, Fernando Peña Cortés, Eduardo Fernández Soto, Alejandro Tirachini, Leonardo Camus, Carlos García Bujanda, Gianluca Falcone Araya, Luis Di Stefano. 
 "Integrating MATSim into a Comprehensive Multi-Model Platform for Analysis and Planning of Sustainable Electromobility Scenarios"
 MatSim User Meeting 2023, Zurich, Switzerland.
