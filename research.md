@@ -66,6 +66,7 @@ AGU Fall Meeting 2023, San Francisco, CA.
 * Francisco Rojas, Mónica Zamora Z.
 "Response of a coastal Stratocumulus-topped boundary layer to idealized variations of sea breeze"
 AGU Fall Meeting 2023, San Francisco, CA.
+[Link](https://agu23.ipostersessions.com/Default.aspx?s=13-CE-17-49-41-6C-36-97-E3-93-62-23-D8-C5-F8-E7)
 
 * Marcelo Matus-Acuña, Gonzalo Bustos-Turu, Tomás Cox, Mónica Zamora Zapata, Williams Calderón-Muñoz, Ignacio Ceballos, Bárbara Silva, Lorenzo Reyes-Chamorro, Chariel Chávez Mancilla, María Del Pilar Buitrago-Villada, Fernando Peña Cortés, Eduardo Fernández Soto, Alejandro Tirachini, Leonardo Camus, Carlos García Bujanda, Gianluca Falcone Araya, Luis Di Stefano. 
 "Integrating MATSim into a Comprehensive Multi-Model Platform for Analysis and Planning of Sustainable Electromobility Scenarios"
