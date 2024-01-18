@@ -17,9 +17,6 @@ Journal of Renewable and Sustainable Energy 15(5), 2023 (Featured Article).
 [Code](https://github.com/mzamora/InverterEnhancement)
 [Preprint](preprints/envinh_current.pdf)
 
-* Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
-"A multi-model platform for sustainable electromobility analysis and planning" SDEWES 2024 (submitted, under review)
-
 * Mónica Zamora Zapata, Jan Kleissl
 "Dependence of sub-hourly solar variability statistics on time interval and cloud vertical position"
 Journal of Renewable and Sustainable Energy 14(3), 2022. 
@@ -58,6 +55,11 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
+* Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
+"A multi-model platform for sustainable electromobility analysis and planning"
+LA SDEWES 2024, Viña del Mar, Chile.
+[Link](https://www.vinadelmar2024.sdewes.org/schedule)
+
 * Gabriela Pallauta, Ricardo Muñoz, Mónica Zamora Z.
 "Features of sea breeze during coastal Stratocumulus breakup events in Antofagasta and San Diego"
 AGU Fall Meeting 2023, San Francisco, CA.
