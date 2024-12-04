@@ -13,6 +13,12 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
 "On the off-design modeling of a commercial absorption chiller"
 Energy Conversion and Management (under review).
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974325)
+
+* Mónica Zamora Zapata
+"Experiencias de vinculación con escuelas y museos en un curso de proyectos de Ingeniería Civil Mecánica"
+XXXVI Congreso Chileno de Educación en Ingeniería, 2024.
+[Preprint](preprints/avm_termofluidos_sochedi2024_rev.pdf)
 
 * Mónica Zamora Zapata, Kari Lappalainen, Adam Kankiewicz, Jan Kleissl
 "Comparing solar inverter design rules to subhourly solar resource simulations"
@@ -59,8 +65,6 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
-* Mónica Zamora Z. “Experiencias de vinculación con escuelas y museos en un curso de proyectos de Ingeniería Civil Mecánica”. XXXVI Congreso Chileno de Educación en Ingeniería 2024, La Serena, Chile.
-
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning"
 LA SDEWES 2024, Viña del Mar, Chile.
