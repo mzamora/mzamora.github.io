@@ -19,7 +19,17 @@ Proyectos propuestos:
   * Tratamiento de aguas residuales
 * Otoño 2023:
   * Deshumidificación en depósitos del Museo de Arte Contemporáneo (vinculación con el medio con el MAC, Facultad de Artes). Financiado por el concurso de innovación docente, A2IC, otoño 2023.
+  [Mira la nota de prensa](https://mac.uchile.cl/estudiantes-de-ingenieria-mecanica-uchile-realizaron-estudio-de-humedad-en-mac-parque-forestal/)
   * Reconversión de una central a carbón
   * Recambio de una caldera de hospital
+* Primavera 2023:
+  * Sistema neumático para el taller Molina
+  * Reconversión de una central a carbón
+  * Climatización de un data center
+* Otoño 2023:
+  * Climatización en viviendas: edificios en Santiago y viviendas sociales en Temuco
+  * Tratamiento de aguas para laboratorios de fluidos y química en la facultad
+* Primavera 2024:
+  * Invernaderos que reutilizan el aire húmedo de una torre de enfriamiento
 
 Para propuestas de vinculación, escríbeme a mzamora arroba uchile punto cl.
