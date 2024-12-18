@@ -26,7 +26,7 @@ Proyectos propuestos:
   * Sistema neumático para el taller Molina
   * Reconversión de una central a carbón
   * Climatización de un data center
-* Otoño 2023:
+* Otoño 2024:
   * Climatización en viviendas: edificios en Santiago y viviendas sociales en Temuco
   * Tratamiento de aguas para laboratorios de fluidos y química en la facultad
 * Primavera 2024:
