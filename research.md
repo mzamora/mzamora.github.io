@@ -16,7 +16,7 @@ Energy (submitted Dec. 2024).
 
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
 "On the off-design modeling of a commercial absorption chiller"
-Energy Conversion and Management (under review, submitted Oct. 2024).
+Energy Conversion and Management (accepted Dec. 2024).
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974325)
 
 * Mónica Zamora Zapata
@@ -69,6 +69,19 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
 ## Other conferences and workshops
+
+* Mónica Zamora Z.
+"Assessing Modeled Solar Power Variability in Bifacial and Monofacial PV Plants"
+bifiPV Workshop 2025, Antofagasta, Chile.
+
+* Mónica Zamora Z., Gabriela Pallauta, Francisco Rojas, Patricio Arrué C.
+"Exploring the influence of sea breeze in coastal Stratocumulus dissipation events"
+AGU Fall Meeting 2024, Washington D.C.
+
+* Mónica Zamora Z., Constanza Flores, Felipe Montecinos, Katherine Ávalos, Emilia Ahumada, Fa Albornoz, Eduardo Vega, Danisa Peric, Carmen Martin, Daniella Gac, Sofía Jara, Ámbar García, Tamara Chacón
+"Transdisciplinary environmental science through speculative fiction experiences at the boundaries of public high schools"
+AGU Fall Meeting 2024, Washington D.C.
+
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning"
 LA SDEWES 2024, Viña del Mar, Chile.
