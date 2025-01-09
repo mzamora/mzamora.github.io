@@ -70,6 +70,11 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 
 ## Other conferences and workshops
 
+* José Antonio Marín, Mónica Zamora Z., Rubén Fernández, Andrés Astudillo
+"Incluyendo estudiantes de ingeniería mecánica en cursos de diseño: un experimento en aprendizaje transdisciplinar"
+III Jornadas en línea de innovación en educación superior y STEM, CICES 2025 , Virtual.
+[Link al programa](https://cices.usach.cl/iii-jornadas-en-linea-de-innovacion-en-educacion-superior-y-stem/)
+
 * Mónica Zamora Z.
 "Assessing Modeled Solar Power Variability in Bifacial and Monofacial PV Plants"
 bifiPV Workshop 2025, Antofagasta, Chile.
@@ -77,10 +82,12 @@ bifiPV Workshop 2025, Antofagasta, Chile.
 * Mónica Zamora Z., Gabriela Pallauta, Francisco Rojas, Patricio Arrué C.
 "Exploring the influence of sea breeze in coastal Stratocumulus dissipation events"
 AGU Fall Meeting 2024, Washington D.C.
+[Link](https://agu24.ipostersessions.com/Default.aspx?s=C3-88-1D-68-F8-FF-C1-1C-C2-E0-C0-AD-BE-6B-65-DA)
 
 * Mónica Zamora Z., Constanza Flores, Felipe Montecinos, Katherine Ávalos, Emilia Ahumada, Fa Albornoz, Eduardo Vega, Danisa Peric, Carmen Martin, Daniella Gac, Sofía Jara, Ámbar García, Tamara Chacón
 "Transdisciplinary environmental science through speculative fiction experiences at the boundaries of public high schools"
 AGU Fall Meeting 2024, Washington D.C.
+[Link](https://agu24.ipostersessions.com/Default.aspx?s=4B-60-DF-AB-4A-8F-FC-03-EC-5B-F6-5F-48-3F-61-4C)
 
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Ignacio Ceballos, Mónica Zamora Z., Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Chariel Chávez M., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning"
