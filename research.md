@@ -15,8 +15,9 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 Energy (submitted Dec. 2024).
 
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
-"On the off-design modeling of a commercial absorption chiller"
-Energy Conversion and Management (accepted Dec. 2024).
+" Improving the off-design modeling of a commercial absorption chiller"
+Energy Conversion and Management 326, 119470, 2025.
+[Link](https://doi.org/10.1016/j.enconman.2024.119470)
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974325)
 
 * Mónica Zamora Zapata
