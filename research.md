@@ -79,6 +79,7 @@ III Jornadas en línea de innovación en educación superior y STEM, CICES 2025 
 * Mónica Zamora Z.
 "Assessing Modeled Solar Power Variability in Bifacial and Monofacial PV Plants"
 bifiPV Workshop 2025, Antofagasta, Chile.
+[Poster](https://figshare.com/articles/poster/Assessing_Modeled_Solar_Power_Variability_in_Bifacial_and_Monofacial_PV_Plants/28207631?file=51681563)
 
 * Mónica Zamora Z., Gabriela Pallauta, Francisco Rojas, Patricio Arrué C.
 "Exploring the influence of sea breeze in coastal Stratocumulus dissipation events"
