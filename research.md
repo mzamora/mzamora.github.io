@@ -10,6 +10,10 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
+* Gabriela Pallauta, Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
+"The Role Of Sea Breeze In The Coastal Stratocumulus Dissipation Transition In Antofagasta And San Diego"
+(to be submitted to Atmosphere)
+
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Mónica Zamora Z., Ignacio Ceballos, Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Luis Vera O., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning"
 Energy (under review ,submitted Dec. 2024).
@@ -72,9 +76,14 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
 
 ## Other conferences and workshops
 
+* Francisco Rojas, Mónica Zamora Z.,
+"Effects of varying sea breeze profiles on the coastal Stratocumulus dissipation"
+23rd IACM Computational Fluids Conference 2025, Santiago, Chile.
+[Link](https://cfc2025.iacm.info/event/contribution/8e630d43-bcf6-11ef-9e02-000c29ddfc0c)
+
 * José Antonio Marín, Mónica Zamora Z., Rubén Fernández, Andrés Astudillo
 "Incluyendo estudiantes de ingeniería mecánica en cursos de diseño: un experimento en aprendizaje transdisciplinar"
-III Jornadas en línea de innovación en educación superior y STEM, CICES 2025 , Virtual.
+III Jornadas en línea de innovación en educación superior y STEM, CICES 2025, Virtual.
 [Link al programa](https://cices.usach.cl/iii-jornadas-en-linea-de-innovacion-en-educacion-superior-y-stem/)
 
 * Mónica Zamora Z.
