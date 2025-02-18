@@ -12,11 +12,11 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 ## Publications and conference papers
 * Gabriela Pallauta, Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
 "The Role Of Sea Breeze In The Coastal Stratocumulus Dissipation Transition In Antofagasta And San Diego"
-(to be submitted to Atmosphere)
+Atmosphere (submitted Feb. 2025).
 
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Mónica Zamora Z., Ignacio Ceballos, Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Luis Vera O., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
 "A multi-model platform for sustainable electromobility analysis and planning"
-Energy (under review ,submitted Dec. 2024).
+Energy (under review, submitted Dec. 2024).
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104309)
 
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
