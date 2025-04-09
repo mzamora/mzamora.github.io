@@ -10,9 +10,10 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
-* Gabriela Pallauta, Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
+* Gabriela Pallauta P., Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
 "The Role Of Sea Breeze In The Coastal Stratocumulus Dissipation Transition In Antofagasta And San Diego"
-Atmosphere (submitted Feb. 2025).
+Atmosphere 16(4), 437, 2025.
+[Link](https://doi.org/10.3390/atmos16040437)
 [Preprint](https://www.preprints.org/manuscript/202502.1779)
 
 * Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Mónica Zamora Z., Ignacio Ceballos, Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Luis Vera O., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
