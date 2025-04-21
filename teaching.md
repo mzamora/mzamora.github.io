@@ -1,9 +1,14 @@
 ## Teaching
 
 ## [DIMEC, Universidad de Chile](http://www.dimec.uchile.cl/)
+
+Current:
 * 2021- Fall&Spring, [ME5400/ME5140](termofluidos.md), Thermofluids engineering
-* 2021 Spring, 2023 Fall [ME6010](introturbulencia.md), Introduction to turbulence
-* 2023 Spring ME3240 Engineering thermodynamics
+* 2021 Spring, 2023- Fall [ME6010](introturbulencia.md), Introduction to turbulence
+* 2023- Spring ME3240 Engineering thermodynamics
+* 2025 Fall ME7202 Practices of Academic Research (w/ Alvaro Ochoa V., IFPE Brazil)
+
+Past:
 * 2023 Fall, CD1100, Innovation Challenges in Engineering and Science (w/ Rubén Fernández), [iGea program](https://helice.ing.uchile.cl/igea/) 
 * 2021 Spring,2022 Spring, ME3130, Statics
 
