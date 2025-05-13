@@ -21,6 +21,7 @@ IEEE Transactions on Medical Robotics and Bionics (submitted Apr. 2025)
 * Camila Montecinos, Jessica Espinoza, Mónica Zamora Z., Viviana Meruane, Rubén Fernández.
 "Improving fast EMG classification for hand gesture recognition: a comprehensive analysis of temporal, spatial, and algorithm configurations for healthy and post-stroke subjects"
 Sensors (submitted Apr. 2025)
+[Preprint](https://www.preprints.org/manuscript/202505.0374/v1)
 
 * Gabriela Pallauta P., Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
 "The Role Of Sea Breeze In The Coastal Stratocumulus Dissipation Transition In Antofagasta And San Diego"
