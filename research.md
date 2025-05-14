@@ -17,6 +17,7 @@ Journal of Energy Storage (submitted Apr. 2025)
 * Jessica Espinoza, Camila Montecinos, Constanza Ahumada, Rubén Fernández, Mónica Zamora Z.
 "An Integrated Framework for Functional and Control Assessment of a Hand Exoskeleton for Stroke Assistance"
 IEEE Transactions on Medical Robotics and Bionics (submitted Apr. 2025)
+[Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174682677.70221641/v1)
 
 * Camila Montecinos, Jessica Espinoza, Mónica Zamora Z., Viviana Meruane, Rubén Fernández.
 "Improving fast EMG classification for hand gesture recognition: a comprehensive analysis of temporal, spatial, and algorithm configurations for healthy and post-stroke subjects"
