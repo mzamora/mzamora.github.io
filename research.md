@@ -13,6 +13,7 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 * Esteban Kuzmanic-Reyes, Ignacio Ceballos, Fernando Fuentes, Débora de O. Silva, Mónica Zamora Z.
 "Effects of simplifying electric vehicle charging on the design of an ultra-fast charging station with solar energy and storage integration"
 Journal of Energy Storage (submitted Apr. 2025)
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237604)
 
 * Jessica Espinoza, Camila Montecinos, Constanza Ahumada, Rubén Fernández, Mónica Zamora Z.
 "An Integrated Framework for Functional and Control Assessment of a Hand Exoskeleton for Stroke Assistance"
