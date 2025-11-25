@@ -1,4 +1,4 @@
-## Research
+<img width="1110" height="1039" alt="image" src="https://github.com/user-attachments/assets/1fa3316e-79a2-495d-9de0-e054141fa140" />## Research
 My current research mixes cloud physics and solar resource knowledge areas. I mostly work running LES and then doing data analysis of both model outputs and observational datasets. Open to collaborations on:
 * Spatial organization, physics, and turbulence of cloud boundary layers
 * Dynamics of the coastal stratocumulus breakup and coastal modeling challenges
@@ -10,19 +10,20 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
+* Francisco Rojas, Mónica Zamora Z.
+"Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
+Boundary-Layer Meteorology (submitted Nov. 2025)
+[Preprint]()
+
 * Esteban Kuzmanic-Reyes, Ignacio Ceballos, Fernando Fuentes, Débora de O. Silva, Mónica Zamora Z.
 "Effects of simplifying electric vehicle charging on the design of an ultra-fast charging station with solar energy and storage integration"
-Journal of Energy Storage (submitted Apr. 2025)
+Journal of Energy Storage (under review, submitted Apr. 2025)
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237604)
-
-* Jessica Espinoza, Camila Montecinos, Constanza Ahumada, Rubén Fernández, Mónica Zamora Z.
-"An Integrated Framework for Functional and Control Assessment of a Hand Exoskeleton for Stroke Assistance"
-IEEE Transactions on Medical Robotics and Bionics (submitted Apr. 2025)
-[Preprint](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174682677.70221641/v1)
 
 * Camila Montecinos, Jessica Espinoza, Mónica Zamora Z., Viviana Meruane, Rubén Fernández.
 "Improving fast EMG classification for hand gesture recognition: a comprehensive analysis of temporal, spatial, and algorithm configurations for healthy and post-stroke subjects"
-Sensors (submitted Apr. 2025)
+Sensors 25(22), 2025.
+[Link](https://doi.org/10.3390/s25226980)
 [Preprint](https://www.preprints.org/manuscript/202505.0374/v1)
 
 * Gabriela Pallauta P., Ricardo C. Muñoz, Patricio Arrué, Mónica Zamora Z.
@@ -30,11 +31,6 @@ Sensors (submitted Apr. 2025)
 Atmosphere 16(4), 437, 2025.
 [Link](https://doi.org/10.3390/atmos16040437)
 [Preprint](https://www.preprints.org/manuscript/202502.1779)
-
-* Marcelo Matus A., Gonzalo Bustos T., Tomás Cox O., Mónica Zamora Z., Ignacio Ceballos, Williams Calderón-Muñoz, María del Pilar Buitrago-Villada, Carlos García B., Bárbara Silva, Marisa de Martini, Catalina López, Leonardo Camus, Alejandro Tirachini, Lorenzo Reyes-Chamorro, Luis Vera O., Fernando Peña C., Eduardo Fernández S., Gianluca Falcone A., Luis di Stefano
-"A multi-model platform for sustainable electromobility analysis and planning"
-Energy (under review, submitted Dec. 2024).
-[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104309)
 
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
 "Improving the off-design modeling of a commercial absorption chiller"
