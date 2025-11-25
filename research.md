@@ -87,7 +87,27 @@ Journal of the Atmospheric Sciences 77(8), pp. 2717-2741, August 2020.
  [Link](https://ieeexplore.ieee.org/abstract/document/8980546/)
  [Code](https://github.com/elynnwu/Obs_AnEn)
 
-## Other conferences and workshops
+## Other conferences, workshops, talks
+* Gabriela Pallauta P., Mónica Zamora Z.,
+"Understanding the main drivers of cloud evolution to support solar energy applications in coastal regions"
+5th Energy, Efficiency and Environmental Sustainability Conference 2025, Santiago, Chile
+
+* Gabriela Pallauta P., Mónica Zamora Z.,
+"Más allá de las correlaciones: explorando relaciones causales en el comportamiento de estratocúmulos costeros"
+Simposio Internacional CR2: Clima y Resiliencia el futuro se hace presente 2025, Viña del Mar, Chile.
+
+* Gabriela Pallauta P., Mónica Zamora Z.,
+"Characterizing Coastal Stratocumulus Cloud Impacts On Solar Irradiance For Short-Term Forecasting"
+Solar World Congress 2025, Nov. 4, Fortaleza, Brazil.
+
+* Mónica Zamora Z., Eduardo Luccini, Mauricio Trigo-González, Jorge Rabanal-Arabach,
+"Effects Of Inverter Clipping On Solar Power Variability"
+Solar World Congress 2025, Nov. 6, Fortaleza, Brazil.
+
+* Mónica Zamora Z.
+"Developing decision-making tools for electromobility planning"
+Operations Research: Case studies and real-world applications seminar, CMM, Apr. 2025.
+[Link](https://eventos.cmm.uchile.cl/operations2025/)
 
 * Francisco Rojas, Mónica Zamora Z.,
 "Effects of varying sea breeze profiles on the coastal Stratocumulus dissipation"
