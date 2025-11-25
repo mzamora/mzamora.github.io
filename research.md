@@ -1,4 +1,4 @@
-<img width="1110" height="1039" alt="image" src="https://github.com/user-attachments/assets/1fa3316e-79a2-495d-9de0-e054141fa140" />## Research
+## Research
 My current research mixes cloud physics and solar resource knowledge areas. I mostly work running LES and then doing data analysis of both model outputs and observational datasets. Open to collaborations on:
 * Spatial organization, physics, and turbulence of cloud boundary layers
 * Dynamics of the coastal stratocumulus breakup and coastal modeling challenges
