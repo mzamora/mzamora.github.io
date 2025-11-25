@@ -1,5 +1,5 @@
 ## Hello world
-I'm an Assistant Professor at the Department of Mechanical Engineering at the [University of Chile](http://www.dimec.uchile.cl). My current research is related to Stratocumulus cloud modeling for coastal cities, motivated by solar forecasting applications. I'm interested in renewable energy applications, sustainable cities, as well as fluid dynamics and turbulence. 
+I'm an Assistant Professor at the Department of Mechanical Engineering at the [University of Chile](http://www.dimec.uchile.cl). My current research focuses on modeling Stratocumulus clouds for coastal cities, motivated by solar forecasting applications. I'm interested in renewable energy applications, sustainable cities, as well as fluid dynamics and turbulence. 
 
 I also work for the [Center of Acceleration of Sustainable Electromobility](https://centroelectromovilidad.cl/) (CASE), and I'm an Adjunct Researcher at the [Solar Energy Research Center](https://serc.cl/) and the [FCFM Energy Center](https://centroenergia.cl/).
 
@@ -11,7 +11,8 @@ I worked on my PhD at the Solar Resource Assessment and Forecasting Lab at [UC S
 
 ## [some useful resources](resources.md).
 
-## Some interests
+## Briefly
+These are some of my general interests:
 * Cloud modeling and solar resource for energy production
 * Fluid dynamics and turbulence
 * Distributed renewable energy technologies
@@ -21,6 +22,7 @@ I worked on my PhD at the Solar Resource Assessment and Forecasting Lab at [UC S
 
 ## Outreach and art/science 
 * Check out our project website for [La escuela como nodo social y corredor biológico](https://www.cec.uchile.cl/~mzamora/fvl/), an art and science education project in collaboration with 2 high schools in Santiago.
+* I teach a thermofluids class with real-world project-based learning, and we've collaborated with different public and private enterprises. If you have a project in thermofluids (energy, fluids, thermal science) that could benefit both parties, please reach out!
 
 ## Formal contact info
 Departamento de Ingeniería Mecánica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile
