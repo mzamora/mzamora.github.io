@@ -10,6 +10,11 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
+* Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
+"Unraveling the absorption chiller dynamics, quasi-linear behavior and potential for advanced control applications"
+Energy Conversion and Management (submitted Dec. 2025)
+[Preprint]()
+
 * Francisco Rojas, Mónica Zamora Z.
 "Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
 Boundary-Layer Meteorology (submitted Nov. 2025)
