@@ -11,9 +11,9 @@ I worked on my PhD at the Solar Resource Assessment and Forecasting Lab at [UC S
 
 ## [some useful resources](resources.md).
 
+___
 
-
-## General interests:
+## General interests
 * Cloud modeling and solar resource for energy production
 * Fluid dynamics and turbulence
 * Distributed renewable energy technologies
