@@ -10,15 +10,17 @@ My current research mixes cloud physics and solar resource knowledge areas. I mo
 If you're interested in studying here, there are [doctoral](https://www.anid.cl/capital-humano/doctorado-nacional/) and [postdoc](https://www.anid.cl/proyectos-de-investigacion/fondecyt-postdoctorado/) fellowships available in Chile.
 
 ## Publications and conference papers
+* M. Matus A., G. Bustos-Turu, T. Cox, M. Zamora Z.*, W. Calderón-Muñoz, M. Buitrago-Villada, C. García, L. Reyes-Chamorro, L. Vera, F. Peña-Cortés, E. Fernández S.
+"Assessing Sustainable Electromobility Futures in a Multi-Model Platform with Grid and Urban Planning: A Case Study in Chile"
+Journal of Sustainable Development of Energy, Water and Environment Systems (submitted Dec. 2025)
+
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
 "Unraveling the absorption chiller dynamics, quasi-linear behavior and potential for advanced control applications"
 Energy Conversion and Management (submitted Dec. 2025)
-[Preprint]()
 
 * Francisco Rojas, Mónica Zamora Z.
 "Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
 Boundary-Layer Meteorology (submitted Nov. 2025)
-[Preprint]()
 
 * Esteban Kuzmanic-Reyes, Ignacio Ceballos, Fernando Fuentes, Débora de O. Silva, Mónica Zamora Z.
 "Effects of simplifying electric vehicle charging on the design of an ultra-fast charging station with solar energy and storage integration"
