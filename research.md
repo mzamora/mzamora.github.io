@@ -17,10 +17,12 @@ Journal of Sustainable Development of Energy, Water and Environment Systems (sub
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
 "Unraveling the absorption chiller dynamics, quasi-linear behavior and potential for advanced control applications"
 Energy Conversion and Management (submitted Dec. 2025)
+[Preprint](https://doi.org/10.2139/ssrn.5853923)
 
 * Francisco Rojas, Mónica Zamora Z.
 "Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
 Boundary-Layer Meteorology (submitted Nov. 2025)
+[Preprint](https://www.researchsquare.com/article/rs-8203152/v1)
 
 * Esteban Kuzmanic-Reyes, Ignacio Ceballos, Fernando Fuentes, Débora de O. Silva, Mónica Zamora Z.
 "Effects of simplifying electric vehicle charging on the design of an ultra-fast charging station with solar energy and storage integration"
