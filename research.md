@@ -24,7 +24,7 @@ Boundary-Layer Meteorology (submitted Nov. 2025)
 [Preprint](https://www.researchsquare.com/article/rs-8203152/v1)
 
 * Juan Manuel González, Álvaro. A. Ochoa Villa, José Miguel Cardemil, Felipe Godoy, Mónica Zamora Zapata
-"Unraveling the absorption chiller dynamics, quasi-linear behavior and potential for advanced control applications"
+"Unraveling the absorption chiller dynamics, quasi-linear behavior and potential for advanced control applications" 
 Energy Conversion and Management 353, 121191, 2026. 
 [Link](http://doi.org/10.1016/j.enconman.2026.121191)
 [Preprint](https://doi.org/10.2139/ssrn.5853923)
