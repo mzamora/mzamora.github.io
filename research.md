@@ -17,7 +17,7 @@ Journal of Sustainable Development of Energy, Water and Environment Systems (sub
 
 * Francisco Rojas, Mónica Zamora Z.
 "Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
-Boundary-Layer Meteorology (submitted Nov. 2025)
+Boundary-Layer Meteorology (accepted Apr. 2026, submitted Nov. 2025)
 [Preprint](https://www.researchsquare.com/article/rs-8203152/v1)
 
 * N. Zúñiga Ostermann, E. Kuzmanic-Reyes, M. Zamora Z.*
