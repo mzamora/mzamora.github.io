@@ -13,11 +13,13 @@ If you're interested in studying here, there are [doctoral](https://www.anid.cl/
 
 * M. Matus A., G. Bustos-Turu, T. Cox, M. Zamora Z.*, W. Calderón-Muñoz, M. Buitrago-Villada, C. García, L. Reyes-Chamorro, L. Vera, F. Peña-Cortés, E. Fernández S.
 "Assessing Sustainable Electromobility Futures in a Multi-Model Platform with Grid and Urban Planning: A Case Study in Chile"
-Journal of Sustainable Development of Energy, Water and Environment Systems (submitted Dec. 2025)
+Journal of Sustainable Development of Energy, Water and Environment Systems 14 (3), 1140723, 2026.
+[Link](https://www.sdewes.org/jsdewes/pixd14.0723)
 
 * Francisco Rojas, Mónica Zamora Z.
 "Modelling Coastal Stratocumulus Dissipation Under Idealized Variations of Sea Breeze"
-Boundary-Layer Meteorology (accepted Apr. 2026, submitted Nov. 2025)
+Boundary-Layer Meteorology 192, 30, 2026.
+[Link](https://doi.org/10.1007/s10546-026-00975-8)
 [Preprint](https://www.researchsquare.com/article/rs-8203152/v1)
 
 * N. Zúñiga Ostermann, E. Kuzmanic-Reyes, M. Zamora Z.*
